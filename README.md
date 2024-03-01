@@ -2,6 +2,10 @@
 
 This project is my responsive business landing page for Cache Bank, a fictitious banking solution aimed at software developers. I utilized HTML, CSS (including Tailwind CSS), and JavaScript to create a functional and professional webpage.
 
+##Links
+Loom: https://www.loom.com/share/f8c0365332574f69a3470e9c27b04b23
+Slides: https://docs.google.com/presentation/d/1HQK3ztfGKQa0pwwrLSZlC77Ug47SD2nuXkvP41j8MrM/edit?usp=sharing
+
 ## Features
 
 - **Navigation Section and Hamburger**: I designed the navigation section to include links to different sections of the website and implemented a hamburger menu for mobile devices.
